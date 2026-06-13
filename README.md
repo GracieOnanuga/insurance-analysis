@@ -35,7 +35,6 @@ The analysis should help the insurance company answer questions such as:
 3. How do smokers and non-smokers compare in terms of insurance charges?
 4. Is there a relationship between BMI and healthcare costs?
 5. Which regions have the highest average charges?
-6. Does the number of children affect insurance expenses?
-7. What region has the highest average insurance?
+6. What region has the highest average insurance?
 
 
